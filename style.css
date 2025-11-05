@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(187, 206, 206);
+}
+
+h2{
+    text-align: center;
+    color: rgb(29, 29, 194);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+form{
+    margin: 0 auto;
+}
+
+input {
+    width: 50%;
+    padding:4px 4px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: right;
+}
