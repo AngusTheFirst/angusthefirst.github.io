@@ -83,10 +83,10 @@ function getBet(nop){
     let txt = "";
     switch(nop){
         case 1: txt = "Single bet.";break;
-        case 2: txt = "2 singles and a double.";break;
+        case 2: txt = "Two singles and a double.";break;
         case 3: txt = "Patent.";break;
         case 4: txt = "Lucky 15.";break;
-        case 5: txt = "Canadian and 5 singles.";break;
+        case 5: txt = "Lucky 31.";break;
     }
     return txt;
 }

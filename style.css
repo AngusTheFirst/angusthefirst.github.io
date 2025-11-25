@@ -16,7 +16,17 @@ body{
     border-radius: 10px;
 }
 
-h1{
+h1,h3{
+    margin-top: 0;
+    text-align: center;
+}
+
+h3{
+    margin-top: 0;
+    text-align: center;
+}
+
+h5{
     margin-top: 0;
     text-align: center;
 }
@@ -52,3 +62,4 @@ button:hover{
     font-weight: bold;
     margin-top: 10px;
 }
+
